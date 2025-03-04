@@ -1,6 +1,6 @@
 name: Simple Workflow
 
-on:
+on: push
   push:
     branches:
       - main
